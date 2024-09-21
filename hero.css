@@ -1,15 +1,26 @@
 body{
 	margin: 0;
+	font-family: 'Helivetica', 'Arial' , sans-serif;
+}
+h1, h2{
+	  font-family: "Flavors", cursive;
+  font-weight: 400;
+  font-style: normal;
 }
 
 header{
 	background-color: #d14635;
 	text-align: center;
+	padding-top: 50px;
+	padding-bottom: 50px;
 }
 header h1{
 	color: white;
+	font-size:80px ;
+
 }
 header img{
-	border-radius: 150px;
+	border-radius: 170px;
     width: 300px;
+    border:20px solid white;
 }
